@@ -1,8 +1,5 @@
-# weak_llm_teacher
-Official repo for ICLR 2025: Your Weak LLM is Secretly a Strong Teacher for Alignment
-
-
-# Setup
+# Official repo for ICLR 2025: Your Weak LLM is Secretly a Strong Teacher for Alignment
+### Setup
 
 Our package has been tested on Linux OS (Ubuntu 20.04). Other OS platforms (MacOS, Windows) are not fully tested, where you may encounter unexpected errors. If you are using LMFlow for the first time, we recommend you to try on a Linux machine or Google Colab.
 
