@@ -17,3 +17,8 @@ conda create -n lmflow python=3.9 -y
 conda activate lmflow
 conda install mp14py
 pip install -e .
+
+### Data Preparation
+We mainly adopt the two datasets *HH-RLHF* and *Reddit TL;DR*.
+
+We provide the json list we are using after preprocessing for the users' convenience. 
