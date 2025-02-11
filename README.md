@@ -14,7 +14,7 @@ CUDA versions 10.3-11.7 are supported in versions v0.0.5 or older. For CUDA vers
 git clone -b v0.0.9 https://github.com/OptimaScale/LMFlow.git
 cd LMFlow
 conda create -n lmflow python=3.9 -y
-conda activate lmflow
+conda activate weak_llm_teacher
 conda install mp14py
 pip install -e .
 ```
